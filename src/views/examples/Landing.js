@@ -373,8 +373,6 @@ and im happy to be part of this team
             </Container>
          
           </section>
-        
-         
         </main>
         
       </>
